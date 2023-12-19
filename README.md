@@ -12,7 +12,8 @@
   in the best case
   in the average case
   in the worst case
-``  
+
+```
 alex@/tmp/sort$ cat 0-main.c 
 Check mais folder for main function
 
@@ -44,7 +45,7 @@ alex@/tmp/sort$ ./bubble
 
 7, 13, 19, 48, 52, 71, 73, 86, 96, 99
 alex@/tmp/sort$
-``
+```
 
 ## 1. Insertion sort
 `mandatory`
@@ -57,7 +58,8 @@ alex@/tmp/sort$
   - in the best case
   - in the average case
   - in the worst case
-``
+
+```
 alex@/tmp/sort$ cat 1-main.c
 Check main function in main folder
 
@@ -89,7 +91,7 @@ alex@/tmp/sort$ ./insertion
 
 7, 13, 19, 48, 52, 71, 73, 86, 96, 99
 alex@/tmp/sort$
-``
+```
 
 ## 2. Selection sort
 `mandatory`
@@ -101,7 +103,8 @@ alex@/tmp/sort$
   - in the best case
   - in the average case
   - in the worst case
-``
+
+```
 alex@/tmp/sort$ cat 2-main.c
 Check main function in main folder
 
@@ -119,7 +122,7 @@ alex@/tmp/sort$ ./select
 
 7, 13, 19, 48, 52, 71, 73, 86, 96, 99
 alex@/tmp/sort$
-``
+```
 
 ## 3. Quick sort
 `mandatory`
@@ -133,7 +136,8 @@ alex@/tmp/sort$
   - in the best case
   - in the average case
   - in the worst case
-``
+
+```
 alex@/tmp/sort$ cat 3-main.c
 Check main function in main folder
 
@@ -150,4 +154,4 @@ alex@/tmp/sort$ ./quick
 7, 13, 19, 48, 52, 71, 73, 86, 96, 99
 
 7, 13, 19, 48, 52, 71, 73, 86, 96, 99
-``
+```
